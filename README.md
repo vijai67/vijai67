@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vijai67
+- 👀 I’m interested in coding python with SQL.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me Drop A Mail @vijaivedha67@outlook.com
